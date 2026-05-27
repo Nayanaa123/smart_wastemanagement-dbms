@@ -419,18 +419,18 @@ http://localhost/WASTE_MANAGEMENT/login.php
 ## Project Screenshots
 
 ### Admin Panel
-![Admin Login Page](screenshots/w1.jpeg)
-![Admin Dashboard](screenshots/w2.jpeg)
-![Add Waste Entry](screenshots/w3.jpeg)
-![Waste Entry Logs](screenshots/w4.jpeg)
-![Leaderboard](screenshots/w5.jpeg)
-![Analytics Graph](screenshots/w6.jpeg)
-![Delete Entry Option](screenshots/w7.jpeg)
+![Admin Login Page](waste_management/screenshots/w1.jpeg)
+![Admin Dashboard](waste_management/screenshots/w2.jpeg)
+![Add Waste Entry](waste_management/screenshots/w3.jpeg)
+![Waste Entry Logs](waste_management/screenshots/w4.jpeg)
+![Leaderboard](waste_management/screenshots/w5.jpeg)
+![Analytics Graph](waste_management/screenshots/w6.jpeg)
+![Delete Entry Option](waste_management/screenshots/w7.jpeg)
 
 ### Individual User Panel
-![Individual User Login](screenshots/w8.jpeg)
-![Individual User Dashboard](screenshots/w9.jpeg)
-![New Database Entries Page](screenshots/w10.jpeg)
+![Individual User Login](waste_management/screenshots/w8.jpeg)
+![Individual User Dashboard](waste_management/screenshots/w9.jpeg)
+![New Database Entries Page](waste_management/screenshots/w10.jpeg)
 # Advantages
 
 - Simple and easy to use
