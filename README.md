@@ -415,43 +415,11 @@ http://localhost/WASTE_MANAGEMENT/login.php
 
 ---
 
-# Output Screenshots
 
-# Output Screenshots
-
-## Output 1
-![Output 1](./screenshots/w1.jpeg)
-
-## Output 2
-![Output 2](./screenshots/w2.jpeg)
-
-## Output 3
-![Output 3](./screenshots/w3.jpeg)
-
-## Output 4
-![Output 4](./screenshots/w4.jpeg)
-
-## Output 5
-![Output 5](./screenshots/w5.jpeg)
-
-## Output 6
-![Output 6](./screenshots/w6.jpeg)
-
-## Output 7
-![Output 7](./screenshots/w7.jpeg)
-
-## Output 8
-![Output 8](./screenshots/w8.jpeg)
-
-## Output 9
-![Output 9](./screenshots/w9.jpeg)
-
-## Output 10
-![Output 10](./screenshots/w10.jpeg)
 # Output Screenshots
 
 ## Dashboard
-![Dashboard](./screenshots/w2.jpeg)
+![Dashboard](screenshots/w2.jpeg)
 
 Main dashboard of the Waste Management System showing an overview of waste records, quick navigation, and summary details.
 
