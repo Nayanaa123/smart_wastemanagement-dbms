@@ -416,68 +416,21 @@ http://localhost/WASTE_MANAGEMENT/login.php
 ---
 
 
-# Output Screenshots
+## Project Screenshots
 
-## Dashboard
-![Dashboard](screenshots/w2.jpeg)
+### Admin Panel
+![Admin Login Page](screenshots/w1.jpeg)
+![Admin Dashboard](screenshots/w2.jpeg)
+![Add Waste Entry](screenshots/w3.jpeg)
+![Waste Entry Logs](screenshots/w4.jpeg)
+![Leaderboard](screenshots/w5.jpeg)
+![Analytics Graph](screenshots/w6.jpeg)
+![Delete Entry Option](screenshots/w7.jpeg)
 
-Main dashboard of the Waste Management System showing an overview of waste records, quick navigation, and summary details.
-
----
-
-## Add Waste Entry
-![Add Waste Entry](./screenshots/w3.jpeg)
-
-This page is used to add a new waste entry by entering waste type, quantity, date, and related details.
-
----
-
-## Waste Entries
-![Waste Entries](./screenshots/w4.jpeg)
-
-Displays all waste entries stored in the system in a structured table format.
-
----
-
-## Leaderboard
-![Leaderboard](./screenshots/w5.jpeg)
-
-Shows rankings based on waste collection performance and contribution.
-
----
-
-## Charts & Analytics
-![Charts](./screenshots/w6.jpeg)
-
-Visual representation of waste collection data using charts for easy analysis.
-
----
-
-## Delete Entry
-![Delete Entry](./screenshots/w7.jpeg)
-
-Allows admin to delete unwanted or incorrect waste records from the system.
-
----
-
-## Admin Login
-![Admin Login](./screenshots/w8.jpeg)
-
-Secure login page for administrator access.
-
----
-
-## Admin Dashboard
-![Admin Dashboard](./screenshots/w9.jpeg)
-
-Dashboard for admin to monitor, manage, and control the waste management system.
-
----
-
-## Database View
-![Database Entry](./screenshots/w10.jpeg)
-
-Database table showing how waste management records are stored.
+### Individual User Panel
+![Individual User Login](screenshots/w8.jpeg)
+![Individual User Dashboard](screenshots/w9.jpeg)
+![New Database Entries Page](screenshots/w10.jpeg)
 # Advantages
 
 - Simple and easy to use
