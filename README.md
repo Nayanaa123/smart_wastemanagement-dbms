@@ -421,31 +421,31 @@ http://localhost/WASTE_MANAGEMENT/login.php
 ![Output 1](./screenshots/W1.jpg)
 
 ## Output 2
-![Output 2](waste_management/screenshots/W2.jpg)
+![Output 2](./screenshots/W2.jpeg)
 
 ## Output 3
-![Output 3](./screenshots/W3.jpg)
+![Output 3](./screenshots/W3.jpeg)
 
 ## Output 4
-![Output 4](./screenshots/W4.jpg)
+![Output 4](./screenshots/W4.jpeg)
 
 ## Output 5
-![Output 5](./screenshots/W5.jpg)
+![Output 5](./screenshots/W5.jpeg)
 
 ## Output 6
-![Output 6](./screenshots/W6.jpg)
+![Output 6](./screenshots/W6.jpeg)
 
 ## Output 7
-![Output 7](./screenshots/W7.jpg)
+![Output 7](./screenshots/W7.jpeg)
 
 ## Output 8
-![Output 8](./screenshots/W8.jpg)
+![Output 8](./screenshots/W8.jpeg)
 
 ## Output 9
-![Output 9](./screenshots/W9.jpg)
+![Output 9](./screenshots/W9.jpeg)
 
 ## Output 10
-![Output 10](./screenshots/W10.jpg)
+![Output 10](./screenshots/W10.jpeg)
 
 ---
 
