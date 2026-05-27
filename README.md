@@ -421,7 +421,7 @@ http://localhost/WASTE_MANAGEMENT/login.php
 ![Output 1](./screenshots/W1.jpg)
 
 ## Output 2
-![Output 2](./screenshots/W2.jpg)
+![Output 2](waste_management/screenshots/W2.jpg)
 
 ## Output 3
 ![Output 3](./screenshots/W3.jpg)
